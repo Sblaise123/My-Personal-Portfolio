@@ -2,9 +2,8 @@
   "name": "my-personal-portfolio",
   "version": "1.0.0",
   "description": "This displays my personal portfolio",
-  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo 'No build needed'"
   },
   "repository": {
     "type": "git",
@@ -16,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Sblaise123/My-Personal-Portfolio/issues"
   },
-  "homepage": "https://github.com/Sblaise123/My-Personal-Portfolio#readme",
-  "devDependencies": {
-    "serve": "^14.2.5"
-  }
+  "homepage": "https://github.com/Sblaise123/My-Personal-Portfolio#readme"
 }
