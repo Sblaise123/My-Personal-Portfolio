@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sblaise123/My-Personal-Portfolio/issues"
   },
-  "homepage": "https://github.com/Sblaise123/My-Personal-Portfolio#readme"
+  "homepage": "https://github.com/Sblaise123/My-Personal-Portfolio#readme",
+  "dependencies": {
+    "vercel": "^48.2.9"
+  }
 }
